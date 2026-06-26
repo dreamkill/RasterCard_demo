@@ -1,0 +1,9 @@
+# 大文件
+*.tif
+*.bmp
+*.zipgit rm --cached files.zip output_lenticular.tif pitch_test.bmp
+
+# Python缓存
+__pycache__/
+*.pyc
+
